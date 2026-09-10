@@ -1,0 +1,5 @@
+{
+  "url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/voice_reference.mp3",
+  "set_on_episode": 2,
+  "note": "Референс мотива/голосов (рэпер + двое детей на хуке) для Suno upload-cover. Используется автоматически для генерации будущих выпусков. Чтобы сменить голоса — заменить этот mp3-файл в репозитории на новый и обновить это поле set_on_episode."
+}
