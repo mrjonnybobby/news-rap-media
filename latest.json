@@ -1,8 +1,8 @@
 {
-  "episode": 2,
-  "video_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/weekly_news_rap_ep02.mp4",
+  "episode": 3,
+  "video_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/weekly_news_rap_ep03.mp4",
   "background_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/news_rap_bg.png",
-  "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep02.txt",
-  "duration": 147,
-  "title": "Новости под биток — выпуск 2"
+  "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep03.txt",
+  "duration": 146.4,
+  "title": "Новости под биток — выпуск 3"
 }
