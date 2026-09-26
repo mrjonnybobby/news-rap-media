@@ -4,5 +4,14 @@
   "background_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/news_rap_bg.png",
   "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep06.txt",
   "duration": 146.4,
-  "title": "Новости под биток — выпуск 6"
+  "title": "Новости под биток — выпуск 6",
+  "hard": {
+    "episode": 6,
+    "title": "Новости под биток — выпуск 6 (дерзкая версия, 3 куплета)",
+    "track_title": "Новости под биток 6 — дерзкая версия",
+    "lyrics_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/lyrics_ep06_hard.txt",
+    "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep06_hard.txt",
+    "duration": 202.8,
+    "style": "hard VHS boom bap, 94 BPM, heavy punchy drums, distorted dirty bass, furious charismatic male Russian rap, aggressive sarcastic punchlines, three verses, kids shouting on the hook, long track"
+  }
 }
