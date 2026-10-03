@@ -1,25 +1,24 @@
 {
-  "episode": 7,
-  "video_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/weekly_news_rap_ep07.mp4",
+  "episode": 8,
   "background_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/news_rap_bg.png",
-  "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep07.txt",
+  "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep08.txt",
   "duration": 146.4,
-  "title": "Новости под биток — выпуск 7",
+  "title": "Новости под биток — выпуск 8",
   "hard": {
-    "episode": 7,
-    "title": "Новости под биток — выпуск 7 (дерзкая версия, 3 куплета)",
-    "track_title": "Новости под биток 7 — дерзкая версия",
-    "lyrics_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/lyrics_ep07_hard.txt",
-    "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep07_hard.txt",
+    "episode": 8,
+    "title": "Новости под биток — выпуск 8 (дерзкая версия, 3 куплета)",
+    "track_title": "Новости под биток 8 — дерзкая версия",
+    "lyrics_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/lyrics_ep08_hard.txt",
+    "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep08_hard.txt",
     "duration": 202.8,
     "style": "intense Detroit-style rap, rapid-fire multisyllabic rhymes, aggressive emotional male rap vocal, crystal-clear diction, every word enunciated, vocals loud and upfront in the mix, dark piano riff, hard boom-bap drums, deep bass, 88 BPM, three verses, two kids singing the hook in call-and-response"
   },
   "en": {
-    "episode": 7,
-    "title": "News on the Beat — episode 7 (English version)",
-    "track_title": "News on the Beat 7 — English version",
-    "lyrics_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/lyrics_ep07_en.txt",
-    "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep07_en.txt",
+    "episode": 8,
+    "title": "News on the Beat — episode 8 (English version)",
+    "track_title": "News on the Beat 8 — English version",
+    "lyrics_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/lyrics_ep08_en.txt",
+    "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep08_en.txt",
     "duration": 202.8,
     "style": "intense Detroit-style rap, rapid-fire multisyllabic rhymes, aggressive emotional male rap vocal in English, crystal-clear diction, every word enunciated, vocals loud and upfront in the mix, dark piano riff, hard boom-bap drums, deep bass, 88 BPM, three verses, two kids singing the hook in call-and-response"
   }
