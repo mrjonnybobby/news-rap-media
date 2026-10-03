@@ -13,5 +13,14 @@
     "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep07_hard.txt",
     "duration": 202.8,
     "style": "intense Detroit-style rap, rapid-fire multisyllabic rhymes, aggressive emotional male rap vocal, crystal-clear diction, every word enunciated, vocals loud and upfront in the mix, dark piano riff, hard boom-bap drums, deep bass, 88 BPM, three verses, two kids singing the hook in call-and-response"
+  },
+  "en": {
+    "episode": 7,
+    "title": "News on the Beat — episode 7 (English version)",
+    "track_title": "News on the Beat 7 — English version",
+    "lyrics_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/lyrics_ep07_en.txt",
+    "captions_url": "https://raw.githubusercontent.com/mrjonnybobby/news-rap-media/master/captions_ep07_en.txt",
+    "duration": 202.8,
+    "style": "intense Detroit-style rap, rapid-fire multisyllabic rhymes, aggressive emotional male rap vocal in English, crystal-clear diction, every word enunciated, vocals loud and upfront in the mix, dark piano riff, hard boom-bap drums, deep bass, 88 BPM, three verses, two kids singing the hook in call-and-response"
   }
 }
